@@ -1,0 +1,2 @@
+# sapclassprototype
+open SAP class
